@@ -51,7 +51,7 @@ sklearn 0.20.0
 numpy 1.15.3
 h5py 2.8.0
 
-Substitute the address at line (TO PUT) with the address of the downloaded dataset in your PC.
+Substitute the address at line (1329) with the address of the downloaded dataset in your PC.
 Choose and set the modules as explained before.
 Run the module. 
 
