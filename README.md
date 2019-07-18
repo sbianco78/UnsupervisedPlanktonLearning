@@ -1,7 +1,7 @@
 # Code for "Annotation-free learning of plankton for classification and anomaly detection"
 Vito Paolo Pastore, Thomas Zimmerman, Sujoy K. Biswas and Simone Bianco. 
 
-Plankton classifier.py contains the code to implement the Plankton Classifier pipeline as described in:
+Plankton classifier.py contains the code to implement the Plankton Classifier pipeline.
 
 
 The code is organized as a class (Plankton classifier). The main class allows to perform test and evaluate the results, as discussed in the paper,
