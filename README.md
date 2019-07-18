@@ -42,7 +42,7 @@ oneclassSVM: if ==1 -> One class SVM test for anomaly detection.
 In order to run the tests and replicate the results described in the manuscript, it is necessary to:
 install python and the following set of packages:
 
-LIBRARY VERSIONS USED FOR TESTS:
+Recommended requirements: python 3.6.0
 Keras 2.2.4
 Tensorflow-gpu 1.9.0
 openCV 3.4.1 
