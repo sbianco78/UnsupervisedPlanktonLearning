@@ -1,6 +1,5 @@
-# UnsupervisedPlanktonLearning
-# "Annotation-free learning of plankton for classification and anomaly detection"
-# Vito Paolo Pastore, Thomas Zimmerman, Sujoy K. Biswas and Simone Bianco. 
+# Code for "Annotation-free learning of plankton for classification and anomaly detection"
+Vito Paolo Pastore, Thomas Zimmerman, Sujoy K. Biswas and Simone Bianco. 
 
 Plankton classifier.py contains the code to implement the Plankton Classifier pipeline as described in:
 
