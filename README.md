@@ -60,25 +60,46 @@ In the next section, we will describe all the included modules:
 
 
 normalize_test_train_for_newclasses -> normalization needed for test set with respect to the training data
+
 class local binary patterns -> implementation for local binary patterns 
+
 adjust_gamma -> gamma correction for image
+
 image_processor -> segmentation module. 
+
 feature_extractor -> Feature extraction module
+
 euclidian_distance -> euclidian distance between two arrays
+
 normalize_test_train -> normalization needed for test set with respect to the training data using both test and train data. 
+
 normalize -> normalize between 0 and 1. 
+
 reading -> code for reading the data
+
 evaluate_purity -> customized version of the classic definition of purity 
+
 evaluate_purity_OVERLAP -> revised version of the classic definition of purity 
+
 isdifferente -> number of repetitions in array
+
 PCA_custom -> performs the PCA analysis
+
 clusters_comp -> code for computing clusters
+
 unsupervised_partitioning -> clustering module 
+
+
 GMM -> mixture of gaussians customized algorithm 
+
 oneclassSVM -> one class SVM algorith 
+
 randomforest -> random forest based classification 
+
 neuralnet_for_classification -> neural net based classification 
+
 DEC_test_and_newspeciescomputation -> all the test using the DEC detectors as described into the paper. 
+
 
 
 
