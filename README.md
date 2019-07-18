@@ -24,10 +24,15 @@ The initialization module for performing the tests is:
 Where address is the folder DATA downloaded from the provided links.
 
 Image_segmentation_processing: if ==1 -> calls the image_processor module and performs image segmentation (creates folder 'BIN_TRAIN_IMAGE')
+
 feature_recomputing: if == 1 -> calls the image_processor module and performs feature extraction (creates folder 'TRAIN_FEATURES')
+
 Unsupervised_partitioning:  if == 1 -> calls the image_processor module and performs the unsupervised partitioning based on Fuzzy K-meabs
+
 Classification: if ==1 -> classification based on Neural network on test data, if ==2 ->  classification based on Random Forest on test data
+
 DEC_testing: if ==1 -> DEC detectors test on single classes, and one-out test for detection of new species 
+
 oneclassSVM: if ==1 -> One class SVM test for anomaly detection. 
 
 In the next section, we will describe all the included modules:
