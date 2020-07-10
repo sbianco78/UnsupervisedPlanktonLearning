@@ -8,7 +8,7 @@ The code is organized as a class (Plankton classifier). The main class allows to
 for both the lensless microscope (or in general, video data) or the WHOI dataset (static data).
 
 The data is accessible at:
-https://ibm.box.com/s/8g2mp5knl2by7cv0ie0fx60mlb3rs6v3
+https://ibm.box.com/v/PlanktonData
 
 Data folder contains both the lensless and WHOI dataset. The datasets contain a 'TRAINING_IMAGE', 'BIN_TRAINING IMAGE' and a
 'TRAINING_FEATURES' folders, same for test. Lensless dataset contain also the folder 'TRAINED DETECTORS' with the DEC-detectors models saved in format 'h5' together with the model of a trained neural network for classification (for testing as reported in the paper). 
